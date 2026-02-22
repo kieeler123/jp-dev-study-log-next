@@ -107,6 +107,12 @@ export default function LogsPage() {
         >
           JSON Import
         </a>
+        <a
+          href="/export"
+          className="rounded-xl bg-gradient-to-r from-neutral-900 to-neutral-700 px-3 py-2 text-xs font-medium text-white hover:opacity-95"
+        >
+          JSON Export
+        </a>
       </div>
 
       {/* Form */}
